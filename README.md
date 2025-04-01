@@ -12,7 +12,7 @@ cd /api
 
 Démarrer le docker compose:
 ```
-docker compose up-d 
+docker compose up -d 
 ```
 
 Ensuite:
