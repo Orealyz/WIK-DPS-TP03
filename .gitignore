@@ -1,0 +1,21 @@
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Build files
+build/
+dist/
+
+# Environment variables
+.env
+
+# TypeScript
+*.tsbuildinfo
+
+# IDE/Editor settings
+.vscode/
+.idea/
+*.swp
+.DS_Store
+
